@@ -1,3 +1,7 @@
 /target
 
-/data/images/
+/data/
+
+.venv/
+
+pyrightconfig.json
